@@ -2,7 +2,6 @@
 
 ### IIYBICT 👋
 - 开发小菜包
-- [个人技术博客](https://jzplp.github.io/)
 - 还可以在这些地方找到我：
 - [GitHub](https://github.com/IIYBICT)
 
