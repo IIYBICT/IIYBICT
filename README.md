@@ -2,6 +2,4 @@
 
 ### IIYBICT 👋
 - 开发小菜包
-- 还可以在这些地方找到我：
-- [GitHub](https://github.com/IIYBICT)
 
