@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIYBICT)](https://github.com/IIYBICT/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IIYBICT)](https://git.io/streak-stats)
 
 ### IIYBICT 👋
 - 开发小菜包
