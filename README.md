@@ -12,10 +12,6 @@
 
 <br><br>
 
-<!-- 技术栈徽章 -->
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-61DAFB?logo=vue&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
