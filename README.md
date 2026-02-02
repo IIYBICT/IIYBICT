@@ -14,3 +14,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-61DAFB?logo=typescript&logoColor=black)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+![Golang](https://img.shields.io/badge/-Go-000000?logo=go&logoColor=white)
